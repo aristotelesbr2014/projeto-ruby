@@ -25,5 +25,4 @@ module VendaFacil
       @banco_de_arquivos.salva livro
       yield
   end
-  end 
 end
